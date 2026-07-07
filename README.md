@@ -38,13 +38,6 @@
 | [**JetPaint**](https://github.com/moitrayan4/JetPaint) | Draw in the air with hand gestures on a live camera feed — 91% gesture accuracy at 22–26 FPS on a Jetson Nano | OpenCV · MediaPipe · Python |
 | [**Compliance Checker**](https://github.com/moitrayan4/AI-Powered-Regulatory-Compliance-Checker-for-Contracts) | AI-powered pipeline that scans contract PDFs for regulatory compliance issues, with a Streamlit web UI | Python · Streamlit · LLMs |
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=moitrayan4&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moitrayan4&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
 ---
 
 <p align="center">
